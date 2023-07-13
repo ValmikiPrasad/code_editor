@@ -1,0 +1,15 @@
+/* .edit{
+    background-color: rgb(66, 66, 66);
+} */
+.CodeMirror{
+    height: 303px;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    
+}
+.CodeMirror-gutters{
+    background-color: rgb(66, 66, 66) !important;
+}
+.CodeMirror-scroll{
+    background-color: rgb(66, 66, 66) !important;
+}
